@@ -117,3 +117,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Screenshot
 Example chart showing active users and new users over 7 days
+
+
+
+<img width="1439" alt="Screenshot 2025-04-07 at 5 58 33 PM" src="https://github.com/user-attachments/assets/4b675109-8300-4346-9c91-b68c8527a4c7" />
+
+
