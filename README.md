@@ -88,12 +88,26 @@ File Structure
 Copy
 whatsapp-chat-analyzer/
 ├── public/
+
+
 ├── src/
+
+
 │   ├── App.css
+
+
 │   ├── App.js
+
+
 │   ├── index.js
+
+
 │   └── ...
+
+
 ├── package.json
+
+
 └── README.md
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
